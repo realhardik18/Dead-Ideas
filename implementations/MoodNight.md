@@ -15,7 +15,7 @@ MoodNight transforms your Discord voice chats into immersive experiences by cura
 
 ## Why we built this?
 
-we built this keeping in mind
+we built this keeping in mind the fact that the users dont have a personalized music experince based on their actions. this provides for a more autonomous experince(or we atleast tried to re create that) which makes life so much better!
 
 ## Deployment instructions
 
