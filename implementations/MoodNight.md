@@ -4,8 +4,8 @@ MoodNight is a Discord bot that analyzes audio in active voice chats and curates
 
 ## Features
 
-two bots a recorder and a dj bot
-curated recomendation system for user
+two bots a recorder and a dj bot<br>
+curated recomendation system for user<br>
 sentiment analyser
 
 
